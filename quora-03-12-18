@@ -1,0 +1,38 @@
+We are writing to let you know that we recently discovered that some user data was compromised as a result of unauthorized access to our systems by a malicious third party. We are very sorry for any concern or inconvenience this may cause. We are working rapidly to investigate the situation further and take the appropriate steps to prevent such incidents in the future.
+
+What Happened
+
+On Friday we discovered that some user data was compromised by a third party who gained unauthorized access to our systems. We're still investigating the precise causes and in addition to the work being conducted by our internal security teams, we have retained a leading digital forensics and security firm to assist us. We have also notified law enforcement officials.
+
+While the investigation is still ongoing, we have already taken steps to contain the incident, and our efforts to protect our users and prevent this type of incident from happening in the future are our top priority as a company.
+
+What information was involved
+
+The following information of yours may have been compromised:
+
+Account and user information, e.g. name, email, IP, user ID, encrypted password, user account settings, personalization data
+Public actions and content including drafts, e.g. questions, answers, comments, blog posts, upvotes
+Data imported from linked networks when authorized by you, e.g. contacts, demographic information, interests, access tokens (now invalidated)
+Non-public actions, e.g. answer requests, downvotes, thanks
+Questions and answers that were written anonymously are not affected by this breach as we do not store the identities of people who post anonymous content.
+
+What we are doing
+
+While our investigation continues, we're taking additional steps to improve our security:
+
+We’re in the process of notifying users whose data has been compromised.
+Out of an abundance of caution, we are logging out all Quora users who may have been affected, and, if they use a password as their authentication method, we are invalidating their passwords.
+We believe we’ve identified the root cause and taken steps to address the issue, although our investigation is ongoing and we’ll continue to make security improvements.
+We will continue to work both internally and with our outside experts to gain a full understanding of what happened and take any further action as needed.
+
+What you can do
+
+We’ve included more detailed information about more specific questions you may have in our help center, which you can find here.
+
+While the passwords were encrypted (hashed with a salt that varies for each user), it is generally a best practice not to reuse the same password across multiple services, and we recommend that people change their passwords if they are doing so.
+
+Conclusion
+
+It is our responsibility to make sure things like this don’t happen, and we failed to meet that responsibility. We recognize that in order to maintain user trust, we need to work very hard to make sure this does not happen again. There’s little hope of sharing and growing the world’s knowledge if those doing so cannot feel safe and secure, and cannot trust that their information will remain private. We are continuing to work very hard to remedy the situation, and we hope over time to prove that we are worthy of your trust.
+
+The Quora Team
