@@ -1,0 +1,23 @@
+Conclusion of 2018 Data Breach Investigation [https://u7086479.ct.sendgrid.net/wf/click?upn=AwrLlCB7F07TAX9qogN48W5XTUBnZ8Gsf9zzBwCK3bQjYimoOFsPvpLbgMQtSLS2ux-2BAjw7U5q-2F-2B-2F8-2BxAHjc5kKFspP7BLUlJR8xALbqyFo-3D_GqwyJD2g7KXtukaELN6xVK0N-2BZg7TCkWUBMTD2rh19BQK50kCDI7uzne08fs25c26Zotg9Fn1OgimSCvBb77hL0fchpLJUxelTGIOipiAmriZ3sk9aNtC8urSuzqlH1OnlmIzaGFzMZdZRjc-2BO8pXo-2BFr0QzPvWHcA1fateKPx-2FTAaLwcc9e-2BgKwknwE0okunz7pw-2FWFWPiQS8TkEw-2Fp32iuBXYz46TKS2U3QLcYq3cmjIqHRY9VtZGm7KP-2FQfAd5Azr20mJGv6IgwiV7-2FFo3ip0A1EmBmU4ykACQzhd-2FzZv6EL2LmdqkQ72jNw1cJFZ]
+In February of this year we became aware of information claiming to be from the Roll20 “accounts table” being placed for sale on a dark web marketplace for $208; an amount less than comparable data sets. We immediately announced this information to Roll20 users and the public. This data represented approximately four million users from the end of 2018, and contained the following data:
+
+Name (both moniker and first/last as listed)
+Email address
+Last four digits of credit card
+Most recent IP address
+Salted password hashes (bcrypt)
+Roll20 Gaming data (time played)
+Upon becoming aware of this data sale, our legal team engaged Kroll, who proceeded to review available logs from our cloud environments, email and other internal company communication methods, as well as actively monitoring further access to those systems. As of this time, the investigation has concluded.
+
+The investigation identified several possible vectors of attack that have since been remedied. Best practices at Roll20 for communications and credential cycling have been updated, with several code library updates completed and more in development. Additionally, all sessions were logged out of Roll20 as a precautionary measure at the time we became aware of the breach.
+
+Any user that wishes to see an example of their compromised data can contact team@roll20.net and request that of myself (Jeffrey Lamb). Be advised that it will merely be the personalized version of the information listed above, and that we will not be providing in-depth information on attack vectors, so as to not advise malicious actors as to our defenses.
+
+Roll20 would advise users at this time that various data protection companies are making alerts, meaning it is likely that bad actors have purchased the data. We would always recommend regularly rotating passwords, as well as not sharing credentials between sites. Additional identity theft resources are also available via the Federal Trade Commission.
+
+Frankly, this sucks.
+
+But from the very beginning of our platform we were aware that we are an attractive hacking target, and have sought to mitigate the amount of data we hold in order to lessen the adverse effects of potential breaches. We will continue to build upon these efforts and implement ongoing new security practices to protect your information on Roll20.
+
+
+- Jeffrey Lamb, Data Protection Officer
